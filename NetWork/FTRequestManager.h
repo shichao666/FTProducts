@@ -33,12 +33,12 @@
  */
 
 #import <Foundation/Foundation.h>
-
-#import <AFNetworking.h>
 #import "FTAPI_URL.h"    //地址路径URL
 #import "FTDataModel.h"  //数据外层model
-#import <SVProgressHUD.h>
-#import <MJExtension.h>
+
+#import <AFNetworking/AFNetworking.h>
+#import <SVProgressHUD/SVProgressHUD.h>
+#import <MJExtension/MJExtension.h>
 
 typedef NS_ENUM(NSUInteger, ResponseCode) {
 //    Success         = 200, //请求成功
