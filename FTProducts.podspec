@@ -1,8 +1,8 @@
   Pod::Spec.new do |s|
   s.name         = "FTProducts"
-  s.version      = "0.0.4"
-  s.summary      = "FTProducts 0.0.4"
-  s.description  = "FTProducts 0.0.4 sc"
+  s.version      = "0.0.6"
+  s.summary      = "FTProducts 0.0.6"
+  s.description  = "FTProducts 0.0.6 sc"
   s.homepage     = "https://github.com/shichao666/FTProducts.git"
   s.license      = "MIT"
   s.author             = { "shichao" => "329585013@qq.com" }
