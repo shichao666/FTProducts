@@ -9,7 +9,6 @@
 #import "FTRequestManager.h"
 //#import "FTDES3EncryptUtil.h"
 //#import "FTCommonMacro.h"
-#import <FTFramework/FTFramework.h>
 @interface FTRequestManager()
 
 @property(strong,nonatomic) AFHTTPSessionManager *manager;
